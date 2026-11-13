@@ -1,0 +1,4 @@
+numpy
+scipy
+ezdxf        # optional, for DXF import
+pyinstaller  # build only
